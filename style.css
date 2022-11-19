@@ -1,0 +1,20 @@
+img {
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+section {
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+  background-image: url(back.png);
+  background-size: contain;
+}
+
+body {
+  text-align: center;
+}
+
